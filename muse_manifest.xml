@@ -1,0 +1,83 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="csgostats.com" resolutions="1x" timestamp="1488732090937">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4043681034" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4015141345" ref="index"/>
+    <file name="боец.png" crc="390823181" seo="true" ref="index"/>
+    <file name="play.png" crc="4283538398" seo="true" ref="index"/>
+    <file name="closse.png" crc="53464711" seo="true" ref="index"/>
+    <file name="index-arrow.png" crc="4050001656" seo="true" ref="index"/>
+    <file name="index-arrow12.png" crc="326668708" seo="true" ref="index"/>
+    <file name="video.png" crc="3989204169" seo="true" ref="index"/>
+    <file name="logo-stat.png" crc="162728976" seo="true" ref="index"/>
+    <file name="u1733-4.png" crc="4187228615" ref="index"/>
+    <file name="u479-4.png" crc="118772093" ref="index"/>
+    <file name="123.png" crc="452000868" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1-место-u770.png" crc="492090045" ref="index"/>
+    <file name="1-место-u770-a.png" crc="492090045" ref="index"/>
+    <file name="u817-16.png" crc="246488331" ref="index"/>
+    <file name="2-место-u821.png" crc="367688194" ref="index"/>
+    <file name="2-место-u821-a.png" crc="367688194" ref="index"/>
+    <file name="u839-17.png" crc="108397300" ref="index"/>
+    <file name="3-место-u861.png" crc="4193449868" ref="index"/>
+    <file name="3-место-u861-a.png" crc="4193449868" ref="index"/>
+    <file name="u880-17.png" crc="4213227331" ref="index"/>
+    <file name="4-место-u884.png" crc="82992437" ref="index"/>
+    <file name="4-место-u884-a.png" crc="82992437" ref="index"/>
+    <file name="u910-17.png" crc="336284951" ref="index"/>
+    <file name="5-место-u914.png" crc="69449138" ref="index"/>
+    <file name="5-место-u914-a.png" crc="69449138" ref="index"/>
+    <file name="u944-17.png" crc="281808064" ref="index"/>
+    <file name="u950-4.png" crc="3902108878" ref="index"/>
+    <file name="к-1-шкале.jpg" crc="382715178" seo="true" ref="index"/>
+    <file name="шкала-1.png" crc="3915709546" seo="true" ref="index"/>
+    <file name="u1198-4.png" crc="486579458" ref="index"/>
+    <file name="к-2-шкале.jpg" crc="4045200212" seo="true" ref="index"/>
+    <file name="шкала-2.png" crc="59483849" seo="true" ref="index"/>
+    <file name="u1312-4.png" crc="3785429977" ref="index"/>
+    <file name="к-3-шкале.jpg" crc="4084015938" seo="true" ref="index"/>
+    <file name="шкала-3.png" crc="117577233" seo="true" ref="index"/>
+    <file name="u1318-4.png" crc="193449221" ref="index"/>
+    <file name="к-4-шкале.jpg" crc="79567773" seo="true" ref="index"/>
+    <file name="шкала-4.png" crc="4145594980" seo="true" ref="index"/>
+    <file name="u1321-4.png" crc="3863174594" ref="index"/>
+    <file name="к-5-шкале.jpg" crc="4212841593" seo="true" ref="index"/>
+    <file name="шкала-5.png" crc="74724706" seo="true" ref="index"/>
+    <file name="u1327-4.png" crc="307883424" ref="index"/>
+    <file name="к-6-шкале.jpg" crc="3899976208" seo="true" ref="index"/>
+    <file name="шкала-6.png" crc="341232232" seo="true" ref="index"/>
+    <file name="u1333-4.png" crc="3939074903" ref="index"/>
+    <file name="к-7-шкале.jpg" crc="4074945187" seo="true" ref="index"/>
+    <file name="шкала-7.png" crc="121735606" seo="true" ref="index"/>
+    <file name="u1339-4.png" crc="121337528" ref="index"/>
+    <file name="фон1-гвардиан-crop-u1515.png" crc="4131723478" ref="index"/>
+    <file name="u1373-4.png" crc="426150248" ref="index"/>
+    <file name="гвардиан-био.png" crc="3987738617" seo="true" ref="index"/>
+    <file name="09.png" crc="4135165932" seo="true" ref="index"/>
+    <file name="124564-crop-u1449.png" crc="4146400402" ref="index"/>
+    <file name="фоллен-био.png" crc="4169114599" seo="true" ref="index"/>
+    <file name="07.png" crc="222252138" seo="true" ref="index"/>
+    <file name="124564-crop-u1541.png" crc="3869336972" ref="index"/>
+    <file name="форест-био.png" crc="497177775" seo="true" ref="index"/>
+    <file name="08.png" crc="4054101860" seo="true" ref="index"/>
+    <file name="124564-crop-u1577.png" crc="35355537" ref="index"/>
+    <file name="down.jpg" crc="3784958786" ref="index"/>
+    <file name="стрелка-вверх.png" crc="253540927" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="352596232" seo="true" mt="1488731801747" redirect="true"/>
+</manifest>
